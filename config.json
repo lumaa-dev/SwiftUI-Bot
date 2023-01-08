@@ -1,0 +1,9 @@
+{
+    "appleDocs": "https://developer.apple.com/documentation/swiftui",
+    "maxVoteDel": 3,
+    "searchOptions": {
+        "exactName": false,
+        "byName": true,
+        "byDescription": false
+    }
+}

@@ -19,7 +19,7 @@ const docsCache = new Cache();
 
 client.once("ready", () => {
 	console.log(`${client.user.tag} is logged`);
-	Func.Client.setStatus(client, "WWDC 2022", "WATCHING");
+	Func.Client.setStatus(client, "WWDC 2023", "WATCHING");
 });
 
 client.on("messageCreate", async (message) => {
